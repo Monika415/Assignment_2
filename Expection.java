@@ -1,4 +1,4 @@
-public class Test1 {
+public class Expection {
     public static void main(String[] args) {
         try {
             int[] arr = {10, 20, 30};
